@@ -15,15 +15,18 @@ const About: NextPage = () => {
               <div className="row">
                 <div className="about-text padd-15">
                   <h2>
-                    I am Your name a <span>Your Expertise</span>
+                    I Armin a <span>Full stack developer</span>
                   </h2>
                   <p>
-                    Hi! My name is Your Name. I am a your expertise, and I am
-                    very passionate and dedicated to my work. With 1 years
-                    experience as a your expertise, I have acquired the skills and
-                    knowledge necessary to make your project a success. I enjoy
-                    every step of the design process, from discussion and
-                    collaboration.
+                    Highly motivated Full-Stack Developer specialized in
+                    building scalable web applications using Django (Python) and
+                    React. Strong background in backend development with Django
+                    REST Framework and frontend technologies including React,
+                    Next.js, and Tailwind CSS. Experienced in WordPress
+                    development, UI/UX design, and integrating REST APIs across
+                    platforms. Passionate about writing clean, maintainable code
+                    and collaborating within Agile teams to deliver highquality
+                    software solutions.
                   </p>
                 </div>
               </div>
@@ -31,28 +34,30 @@ const About: NextPage = () => {
                 <div className="personal-info padd-15">
                   <div className="row">
                     <div className="info-item padd-15">
+                      <a href="https://arminnataj.ir">
+                        <p>
+                          Website : <span>https://arminnataj.ir</span>
+                        </p>
+                      </a>
+                    </div>
+                    <div className="info-item padd-15">
                       <p>
-                        Website : <span>www.urfolio.vercel.app</span>
+                        Email : <span>natajarmin@gmail.com</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        Email : <span>your@email.com</span>
+                        Degree : <span>Mid Level</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        Degree : <span>SSC</span>
+                        Phone : <span>+98 9906821298</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        Phone : <span>+99 ********</span>
-                      </p>
-                    </div>
-                    <div className="info-item padd-15">
-                      <p>
-                        City : <span>Your City</span>
+                        City : <span>Tehran</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
