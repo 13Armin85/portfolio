@@ -69,7 +69,7 @@ const About: NextPage = () => {
                   <div className="row">
                     <div className="buttons padd-15">
                       <a
-                        href="/assets/docs/resume.pdf"
+                        href="/pdf/Armin Nataj.pdf"
                         target="_target"
                         className="btn"
                       >
@@ -90,22 +90,28 @@ const About: NextPage = () => {
                     <div className="skill-item padd-15">
                       <h5>Html5</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "80%" }} />
-                        <div className="skill-percent">80%</div>
+                        <div
+                          className="progress-in"
+                          style={{ width: "100%" }}
+                        />
+                        <div className="skill-percent">100%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
                       <h5>Css3</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "60%" }} />
-                        <div className="skill-percent">60%</div>
+                        <div
+                          className="progress-in"
+                          style={{ width: "100%" }}
+                        />
+                        <div className="skill-percent">100%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
                       <h5>Javascript</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "50%" }} />
-                        <div className="skill-percent">50%</div>
+                        <div className="progress-in" style={{ width: "80%" }} />
+                        <div className="skill-percent">80%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
@@ -113,6 +119,131 @@ const About: NextPage = () => {
                       <div className="progress">
                         <div className="progress-in" style={{ width: "70%" }} />
                         <div className="skill-percent">70%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>React</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "80%" }} />
+                        <div className="skill-percent">80%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>Nextjs</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "80%" }} />
+                        <div className="skill-percent">80%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>Python</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "80%" }} />
+                        <div className="skill-percent">80%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>Django</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "80%" }} />
+                        <div className="skill-percent">80%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>c#</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "40%" }} />
+                        <div className="skill-percent">40%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>Wordpress</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "80%" }} />
+                        <div className="skill-percent">80%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>php</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "40%" }} />
+                        <div className="skill-percent">40%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>typescript</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "50%" }} />
+                        <div className="skill-percent">50%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>Redux</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "70%" }} />
+                        <div className="skill-percent">70%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>sql server</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "40%" }} />
+                        <div className="skill-percent">40%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>jquery</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "80%" }} />
+                        <div className="skill-percent">80%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>Docker</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "50%" }} />
+                        <div className="skill-percent">50%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>REST API</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "80%" }} />
+                        <div className="skill-percent">80%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>Figma</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "60%" }} />
+                        <div className="skill-percent">60%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>Google Search Console</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "80%" }} />
+                        <div className="skill-percent">80%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>git</h5>
+                      <div className="progress">
+                        <div
+                          className="progress-in"
+                          style={{ width: "100%" }}
+                        />
+                        <div className="skill-percent">100%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>vite</h5>
+                      <div className="progress">
+                        <div
+                          className="progress-in"
+                          style={{ width: "100%" }}
+                        />
+                        <div className="skill-percent">100%</div>
                       </div>
                     </div>
                   </div>
@@ -128,48 +259,111 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2020 to Present
+                            <i className="fa fa-calendar" /> 2025
                           </h6>
                           <h4 className="timeline-title">
-                            Self Taught (Programming)
+                            Django — Top Learn, 2 months
                           </h4>
-                          <p className="timeline-text">
-                            Since 2020 I started to learn Programming. I have
-                            learn Html, Css, Sass, JavaScript, Bootstrap. Now I
-                            am a Professional Web Designer..
-                          </p>
+                          <p className="timeline-text"></p>
                         </div>
                         {/* Timeline Item end */}
                         {/* Timeline Item */}
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2019 to Present
+                            <i className="fa fa-calendar" /> 2024
                           </h6>
                           <h4 className="timeline-title">
-                            Diploma in Civil Engineering
+                            WordPress — Coursera, 1 week
                           </h4>
-                          <p className="timeline-text">
-                            From 2019 I started my journey to be a Civil
-                            Engineer on Shyamoli Ideal Polytechnic Institute. It
-                            still Running to Present.
-                          </p>
+                          <p className="timeline-text"></p>
                         </div>
                         {/* Timeline Item end */}
                         {/* Timeline Item */}
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2014 to 2019
+                            <i className="fa fa-calendar" /> 2024
                           </h6>
                           <h4 className="timeline-title">
-                            Secondary School Certificate
+                            WordPress — Iranian Etemad (No certificate), 3 weeks
                           </h4>
-                          <p className="timeline-text">
-                            In 2019 I passed SSC Exam from Science Group with
-                            GPA- 4.56. My school name was Patgram Anath Bondhu
-                            Govt. High School.
-                          </p>
+                          <p className="timeline-text"></p>
+                        </div>
+                        {/* Timeline Item end */}
+                        {/* Timeline Item */}
+                        <div className="timeline-item">
+                          <div className="circle-dot" />
+                          <h6 className="timeline-date">
+                            <i className="fa fa-calendar" /> 2024
+                          </h6>
+                          <h4 className="timeline-title">
+                            Frontend Development (React, JS, HTML/CSS) —
+                            Technical Complex of Tehran (No certificate), 6
+                            months
+                          </h4>
+                          <p className="timeline-text"></p>
+                        </div>
+                        {/* Timeline Item end */}
+                        {/* Timeline Item */}
+                        <div className="timeline-item">
+                          <div className="circle-dot" />
+                          <h6 className="timeline-date">
+                            <i className="fa fa-calendar" /> 2019
+                          </h6>
+                          <h4 className="timeline-title">
+                            Django — Technical Complex of Tehran, 3 months
+                          </h4>
+                          <p className="timeline-text"></p>
+                        </div>
+                        {/* Timeline Item end */}
+                        {/* Timeline Item */}
+                        <div className="timeline-item">
+                          <div className="circle-dot" />
+                          <h6 className="timeline-date">
+                            <i className="fa fa-calendar" /> 2018
+                          </h6>
+                          <h4 className="timeline-title">
+                            Python — Technical Complex of Tehran, 6 months
+                          </h4>
+                          <p className="timeline-text"></p>
+                        </div>
+                        {/* Timeline Item end */}
+                        {/* Timeline Item */}
+                        <div className="timeline-item">
+                          <div className="circle-dot" />
+                          <h6 className="timeline-date">
+                            <i className="fa fa-calendar" /> 2023
+                          </h6>
+                          <h4 className="timeline-title">
+                            English Language — Advanced Certificate
+                          </h4>
+                          <p className="timeline-text"></p>
+                        </div>
+                        {/* Timeline Item end */}
+                        {/* Timeline Item */}
+                        <div className="timeline-item">
+                          <div className="circle-dot" />
+                          <h6 className="timeline-date">
+                            <i className="fa fa-calendar" /> 2024 – Present
+                          </h6>
+                          <h4 className="timeline-title">
+                            Bachelor of Electrical Engineering — Islamic Azad
+                            University, Central Tehran Branch
+                          </h4>
+                          <p className="timeline-text"></p>
+                        </div>
+                        {/* Timeline Item end */}
+                        {/* Timeline Item */}
+                        <div className="timeline-item">
+                          <div className="circle-dot" />
+                          <h6 className="timeline-date">
+                            <i className="fa fa-calendar" /> 2020 – 2023
+                          </h6>
+                          <h4 className="timeline-title">
+                            Diploma in Mathematics & Physics — Tehran
+                          </h4>
+                          <p className="timeline-text"></p>
                         </div>
                         {/* Timeline Item end */}
                       </div>
@@ -185,13 +379,17 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2019 to Present
+                            <i className="fa fa-calendar" /> May 2025 – Present
+                            (7 months)
                           </h6>
-                          <h4 className="timeline-title">Graphics Design</h4>
+                          <h4 className="timeline-title">
+                            Frontend Developer — Parand Tech Group
+                          </h4>
                           <p className="timeline-text">
-                            From 2018 I am woking on Graphics Design. The
-                            software I use Photoshop, Illustrator for Graphics
-                            design.
+                            • Developed responsive UI components using React and
+                            Next.js. • Integrated React-based frontend with
+                            backend services. • Maintained responsive UI
+                            components with Next.js and Tailwind CSS.
                           </p>
                         </div>
                         {/* Timeline Item end */}
@@ -199,13 +397,17 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2020 to Present
+                            <i className="fa fa-calendar" /> Sep 2024 – Apr 2025
+                            (6 months)
                           </h6>
-                          <h4 className="timeline-title">Web Design</h4>
+                          <h4 className="timeline-title">
+                            Frontend Developer — Iran Fava Gostaresh
+                          </h4>
                           <p className="timeline-text">
-                            Since 2020 I started to learn Coding. I have learn
-                            Html, Css, Sass, JavaScript, Bootstrap. Now I am a
-                            Professional Web Designer..
+                            • Implemented complex UI logic using React and
+                            Next.js. • Collaborated with backend teams to
+                            integrate REST APIs (6-month internship). • Improved
+                            page performance and maintained responsive design.
                           </p>
                         </div>
                         {/* Timeline Item end */}
@@ -213,12 +415,34 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2020 to Present
+                            <i className="fa fa-calendar" /> Jun 2024 – Nov 2024
+                            (6 months)
                           </h6>
-                          <h4 className="timeline-title">Wordpress</h4>
+                          <h4 className="timeline-title">
+                            WordPress Developer — Iranian Etemad
+                          </h4>
                           <p className="timeline-text">
-                            Since 2020 I started to learn Wordpress. I can
-                            install, Customize, &amp; fix bug on wordpress.{" "}
+                            • Designed and customized WordPress themes and
+                            plugins for multiple clients. • Enhanced SEO and
+                            website speed optimization. • Deployed, maintained,
+                            and troubleshooted client websites.
+                          </p>
+                        </div>
+                        {/* Timeline Item end */}
+                        {/* Timeline Item */}
+                        <div className="timeline-item">
+                          <div className="circle-dot" />
+                          <h6 className="timeline-date">
+                            <i className="fa fa-calendar" /> Jul 2022 – Aug 2023
+                            (1 year and 2 months)
+                          </h6>
+                          <h4 className="timeline-title">
+                            C# Programming Intern — Amard
+                          </h4>
+                          <p className="timeline-text">
+                            • Developed small-scale desktop applications using
+                            C#. • Learned basics of software development
+                            lifecycle and OOP.
                           </p>
                         </div>
                         {/* Timeline Item end */}
