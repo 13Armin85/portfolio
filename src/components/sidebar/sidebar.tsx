@@ -24,7 +24,7 @@ const Sidebar = () => {
       <div className="aside-inner">
         <div className="logo">
           <Link href="/" onClick={handleClose}>
-            Folio
+            Armin
           </Link>
         </div>
         <ul className="nav">
@@ -57,11 +57,7 @@ const Sidebar = () => {
               <i className="fa fa-briefcase" /> Portfolio
             </Link>
           </li>
-          <li onClick={handleClose}>
-            <Link href="/blog" className={`${pathUrl == "/blog" && "active"}`}>
-              <i className="fa fa-envelope" /> Blog
-            </Link>
-          </li>
+          {/* Blog link removed */}
           <li onClick={handleClose}>
             <Link
               href="/contact"
