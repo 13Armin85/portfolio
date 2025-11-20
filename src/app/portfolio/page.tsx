@@ -14,36 +14,40 @@ const Portfolio: NextPage = () => {
           <div className="row">
             {/* Portfolio Item */}
             <div className="portfolio-item padd-15" data-category="web-design">
-              <div className="portfolio-item-inner shadow-dark">
-                <div className="portfolio-img">
-                  <img src="/imgs/portfolio/1.jpg" alt="portfolio" />
-                </div>
-                <div className="portfolio-info">
-                  <h4>Web Design</h4>
-                  <div className="icon">
-                    <i className="fa fa-search" />
+              <a href="https://weather-app-ty.netlify.app/">
+                <div className="portfolio-item-inner shadow-dark">
+                  <div className="portfolio-img">
+                    <img src="/imgs/portfolio/weather.png" alt="portfolio" />
+                  </div>
+                  <div className="portfolio-info">
+                    <h4>Web application</h4>
+                    <div className="icon">
+                      <i className="fa fa-search" />
+                    </div>
                   </div>
                 </div>
-              </div>
+              </a>
             </div>
             {/* Portfolio Item End*/}
             {/* Portfolio Item */}
             <div className="portfolio-item padd-15" data-category="web-design">
-              <div className="portfolio-item-inner shadow-dark">
-                <div className="portfolio-img">
-                  <img src="/imgs/portfolio/2.jpg" alt="portfolio" />
-                </div>
-                <div className="portfolio-info">
-                  <h4>Web Design</h4>
-                  <div className="icon">
-                    <i className="fa fa-search" />
+              <a href="https://fava-website.netlify.app/">
+                <div className="portfolio-item-inner shadow-dark">
+                  <div className="portfolio-img">
+                    <img src="/imgs/portfolio/fava.png" alt="portfolio" />
+                  </div>
+                  <div className="portfolio-info">
+                    <h4>Web Development</h4>
+                    <div className="icon">
+                      <i className="fa fa-search" />
+                    </div>
                   </div>
                 </div>
-              </div>
+              </a>
             </div>
             {/* Portfolio Item End*/}
             {/* Portfolio Item */}
-            <div className="portfolio-item padd-15" data-category="web-design">
+            {/* <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
                   <img src="/imgs/portfolio/3.jpg" alt="portfolio" />
@@ -55,10 +59,10 @@ const Portfolio: NextPage = () => {
                   </div>
                 </div>
               </div>
-            </div>
-            {/* Portfolio Item End*/}
+            </div> */}
+            {/* Portfolio Item End */}
             {/* Portfolio Item */}
-            <div
+            {/* <div
               className="portfolio-item padd-15"
               data-category="graphics-design"
             >
@@ -73,36 +77,40 @@ const Portfolio: NextPage = () => {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
             {/* Portfolio Item End*/}
             {/* Portfolio Item */}
             <div className="portfolio-item padd-15" data-category="wordpress">
-              <div className="portfolio-item-inner shadow-dark">
-                <div className="portfolio-img">
-                  <img src="/imgs/portfolio/5.jpg" alt="portfolio" />
-                </div>
-                <div className="portfolio-info">
-                  <h4>Wordpress</h4>
-                  <div className="icon">
-                    <i className="fa fa-search" />
+              <a href="https://raeesiedu.com">
+                <div className="portfolio-item-inner shadow-dark">
+                  <div className="portfolio-img">
+                    <img src="/imgs/portfolio/wordpress.png" alt="portfolio" />
+                  </div>
+                  <div className="portfolio-info">
+                    <h4>Wordpress</h4>
+                    <div className="icon">
+                      <i className="fa fa-search" />
+                    </div>
                   </div>
                 </div>
-              </div>
+              </a>
             </div>
             {/* Portfolio Item End*/}
             {/* Portfolio Item */}
             <div className="portfolio-item padd-15" data-category="web-design">
-              <div className="portfolio-item-inner shadow-dark">
-                <div className="portfolio-img">
-                  <img src="/imgs/portfolio/6.jpg" alt="portfolio" />
-                </div>
-                <div className="portfolio-info">
-                  <h4>Web Design</h4>
-                  <div className="icon">
-                    <i className="fa fa-search" />
+              <a href="https://arminnataj.ir">
+                <div className="portfolio-item-inner shadow-dark">
+                  <div className="portfolio-img">
+                    <img src="/imgs/portfolio/portfolio.png" alt="portfolio" />
+                  </div>
+                  <div className="portfolio-info">
+                    <h4>wordpress</h4>
+                    <div className="icon">
+                      <i className="fa fa-search" />
+                    </div>
                   </div>
                 </div>
-              </div>
+              </a>
             </div>
             {/* Portfolio Item End*/}
           </div>
