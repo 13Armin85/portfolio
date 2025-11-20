@@ -8,7 +8,7 @@ export default async function Home() {
             <h1>Armin Nataj</h1>
             <p>Full stack developer</p>
             <div className="social-links">
-              <a href="https://twitter.com/" target="_blank">
+              <a href="https://x.com/ArminNTJ" target="_blank">
                 <i className="fa fa-twitter" />
               </a>
               <a href="https://github.com/13Armin85" target="_blank">
