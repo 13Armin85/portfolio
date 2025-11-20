@@ -4,7 +4,7 @@ export default async function Home() {
       <section className="home section" id="home">
         <div className="container">
           <div className="intro">
-            <img src="/imgs/Armin.png" alt="Profile" className="shadow-dark" />
+            <img src="/imgs/shot-3.png" alt="Profile" className="shadow-dark" />
             <h1>Armin Nataj</h1>
             <p>Full stack developer</p>
             <div className="social-links">
